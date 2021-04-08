@@ -1,4 +1,4 @@
-# 🐸 Jarvis Frontend
+# Jarvis Frontend
 
 This project contains the main features of the pancake application.
 
