@@ -1,0 +1,16 @@
+{
+  "short_name": "Jarvis Farm",
+  "name": "Jarvis Farm",
+  "description": "Jarvis Farm (JARVIS) is the next generation of Automated Market Making (AMM)",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
